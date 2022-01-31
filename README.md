@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skylarkski
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python for Data Analytics
 - 📫 How to reach me - oskowronski@gmail.com
 
